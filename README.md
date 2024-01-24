@@ -1,2 +1,2 @@
 # Flask_and_Database
- Pocket Money
+ Financial Management Platform
